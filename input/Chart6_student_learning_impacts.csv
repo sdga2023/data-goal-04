@@ -1,0 +1,24 @@
+﻿"Country","Closure length weeks","Average learning losses (SD)","Source","Notes","share_closed","years_lost"
+"Mexico",48,-0.55,"Hevia et al 2021","Patrinos, Vegas, Carter-Rau (2022)",1.2,-1.6666666666666667
+"Brazil",26,-0.32,"Lichand et al 2021","Patrinos, Vegas, Carter-Rau (2022)",0.65,-0.9696969696969697
+"Poland",20,-0.3,"Jakubowski 2022","Patrinos, Vegas, Carter-Rau (2022)",0.5,-0.9090909090909091
+"Russia",14,-0.27,"Chaban et al 2022","Patrinos, Vegas, Carter-Rau (2022)",0.35,-0.8181818181818182
+"Norway",7,-0.24,"Skar et al 2021","Patrinos, Vegas, Carter-Rau (2022)",0.175,-0.7272727272727272
+"China",7,-0.22,"Clark et al. 2021","Patrinos, Vegas, Carter-Rau (2022)",0.175,-0.6666666666666666
+"South Africa",22,-0.22,"Ardington et al 2021","Patrinos, Vegas, Carter-Rau (2022)",0.55,-0.6666666666666666
+"Switzerland",8,-0.2,"Tomasik et al 2020","Patrinos, Vegas, Carter-Rau (2022)",0.2,-0.6060606060606061
+"Italy",15,-0.19,"Contini et al 2021","Patrinos, Vegas, Carter-Rau (2022)",0.375,-0.5757575757575757
+"Belgium",9,-0.18,"Maldonado and Witte 2022","Patrinos, Vegas, Carter-Rau (2022)",0.225,-0.5454545454545454
+"Netherlands",10,-0.17,"Haelermans et al 2021","Patrinos, Vegas, Carter-Rau (2022)",0.25,-0.5151515151515151
+"Germany",10,-0.14,"Ludewig et al 2022","Patrinos, Vegas, Carter-Rau (2022)",0.25,-0.42424242424242425
+"USA",23,-0.14,"Average of: Bielinski et al 
+ 2021; Domingue et al 2021; 
+ Kogan and Lavertu 2021; 
+ Kuhfeld et al 2022; Locke et al 
+ 2021; Pier et al 2021","Patrinos, Vegas, Carter-Rau (2022)",0.575,-0.42424242424242425
+"Czech",9,-0.11,"Korbel and Prokop 2021","Patrinos, Vegas, Carter-Rau (2022)",0.225,-0.3333333333333333
+"England",10,-0.09,"EPI 2021","Patrinos, Vegas, Carter-Rau (2022)",0.25,-0.2727272727272727
+"Spain",12,-0.05,"Arenas and Gortazar 2022","Patrinos, Vegas, Carter-Rau (2022)",0.3,-0.15151515151515152
+"Australia",8,0,"Gore et al. 2020","Patrinos, Vegas, Carter-Rau (2022)",0.2,0
+"Denmark",8,0,"Birkelund and Karlson 2021","Patrinos, Vegas, Carter-Rau (2022)",0.2,0
+"Japan",11,0,"Asakawa and Ohtake 2021","Patrinos, Vegas, Carter-Rau (2022)",0.275,0

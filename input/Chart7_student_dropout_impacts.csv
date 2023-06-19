@@ -1,0 +1,11 @@
+﻿"Country","Income Level","Short 
+ Reference","Dropout Rate - Pre","Dropout Rate - Post","National Sample","Age"
+"Brazil","LMIC","Lichand et al. (2021)",10,35,"No","Secondary"
+"Ghana","LMIC","Abreh et al. (2021)",2.1,2,"Yes","Primary and Secondary"
+"Kenya","LMIC","Zulaika et al. (2022)",3.2,9.4,"No","Secondary"
+"Malawi","LMIC","Kadzamira et al. (2021)",1.2,4.3,"Yes","Primary and Secondary"
+"Nigeria","LMIC","Dessy et al. (2021)",10,16.9,"Yes","Primary and Secondary"
+"Pakistan","LMIC","ASER Pakistan (2021)",4,6,"Yes","Primary and Secondary"
+"Senegal","LMIC","Mbaye et al. (2021)",1.9,1.6,"Yes","Primary and Secondary"
+"South Africa","LMIC","Spaull et al. (2021)",2,6,"Yes","Primary and Secondary"
+"Uganda","LMIC","Uwezo Uganda (2021)",1.3,0.7,"Yes","Primary and Secondary"
